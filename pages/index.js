@@ -19,7 +19,7 @@ const Home = () => {
         <footer className="w-full bg-gray-800/50 shadow-sm shadow-white/80">
           <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
             <span className="text-sm sm:text-center dark:text-gray-400">
-              © {currentYear} Desenvolvido por NextBI Development.
+              © {currentYear} Desenvolvido por Hudson Lima.
             </span>
             <span className='text-sm sm:text-center dark:text-gray-400'>Todos os direitos reservados.</span>
           </div>
