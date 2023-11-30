@@ -13,7 +13,7 @@ const Home = () => {
       <div className={`bg-gradient-to-tr gradient min-h-screen flex flex-col items-center justify-center relative pt-10`}>
         <div className='text-3xl text-slate-200 font-extralight text-center mb-2 md:mb-4'>Gerador de senhas</div>
         <div className='text-md text-slate-200 font-extralight text-center mb-6 md:mb-8'>Password Generator</div>
-        <div className="flex-grow"> {/* Adicionando um div flex-grow para ocupar o espaço disponível */}
+        <div className="flex-grow">
           <PasswordGenerator />
         </div>
         <footer className="w-full bg-gray-800/50 shadow-sm shadow-white/80">
